@@ -1,0 +1,11 @@
+# build outputs
+*.o
+*.out
+a.out
+*.so
+*.exe
+
+# OS/editor junk
+.DS_Store
+*~
+
